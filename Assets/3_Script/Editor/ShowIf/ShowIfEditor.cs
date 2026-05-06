@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.Reflection;
 using System.Linq;
-
+/*
 [CustomEditor(typeof(MonoBehaviour), true)]
 [CanEditMultipleObjects]
 public class ShowIfEditor : Editor
@@ -77,3 +77,4 @@ public class ShowIfEditor : Editor
         serializedObject.ApplyModifiedProperties();
     }
 }
+*/
